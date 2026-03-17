@@ -1,1 +1,14 @@
+body {
+  margin: 0;
+  height: 100vh;
 
+  background: linear-gradient(
+    135deg,
+    #001f24,
+    #003b44,
+    #002a30
+  );
+
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
